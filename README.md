@@ -1,4 +1,5 @@
 # diagram-http-NEW-NOTE
+## What will happen if we will add new note with submit button from the form
 ```mermaid
 sequenceDiagram
     participant BROWSER
